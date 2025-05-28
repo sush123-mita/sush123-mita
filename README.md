@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUSHMITA SINGH
 - 👀 I’m interested in code stuff for sure as well as poetry..
-- 🌱 frontend developer...
+- 🌱 MERN developer...
 - UI/UX..
 - DSA in c++..
 - 😄 Pronouns: she/her

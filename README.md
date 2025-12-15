@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushmita Singh</h1>
 
 <h3 align="center">
-💻 Full-Stack Developer | Passionate about Web Apps & APIs
+💻 Full-Stack Developer | MERN Developer | C++| UI/UX|Gen AI| DSA|
 </h3>
 
 <p align="center">

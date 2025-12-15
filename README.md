@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sushmita Singh</h1>
 
 <h3 align="center">
-💻 Frontend & Full-Stack Developer | Passionate about Web Apps & APIs
+💻 Full-Stack Developer | Passionate about Web Apps & APIs
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+%26+Full+Stack+Developer;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+%26+Full+Stack+Developer;I+Love+Building+Web+Apps;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
 
 - 🌱 Currently learning **Frontend & Backend Development**
 - 🧩 Love building **real-world web apps**
@@ -25,16 +31,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="350"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/>
+</p>
+
 | Project | Description |
 |-------|------------|
-| 🔗 [SummerizerApp](https://github.com/sush123-mita/SummerizerApp) | Text summarization app |
-| 🔗 [Bibiliphile (Next.js)](https://github.com/sush123-mita/Bibiliphile-the-Nextjs-project) | Book app using Next.js |
-| 🔗 [Assignment Project](https://github.com/sush123-mita/assignment) | Practice & assignment based project |
-| 🔗 [TreasureApp](https://github.com/sush123-mita/TreasureApp) | Interactive treasure-based app |
+| 🔗 [**SummerizerApp**](https://github.com/sush123-mita/SummerizerApp) | Text summarization app |
+| 🔗 [**Bibiliphile (Next.js)**](https://github.com/sush123-mita/Bibiliphile-the-Nextjs-project) | Book app using Next.js |
+| 🔗 [**Assignment Project**](https://github.com/sush123-mita/assignment) | Practice & assignment based project |
+| 🔗 [**TreasureApp**](https://github.com/sush123-mita/TreasureApp) | Interactive treasure-based app |
 
 ---
 
@@ -67,7 +81,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨

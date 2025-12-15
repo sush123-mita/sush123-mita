@@ -37,7 +37,7 @@
 | **My-Portfolio-Project-** | HTML | Portfolio website |
 | **ChatterBot** | JavaScript | Simple chatbot UI |
 
-📌 (*Replace links with direct repo links if you want — I can generate them too!*) :contentReference[oaicite:1]{index=1}
+
 
 ---
 

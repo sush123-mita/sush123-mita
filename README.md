@@ -19,8 +19,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/sush123-mita)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge\&logo=linkedin\&logoColor=ffffff)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge\&logo=googlechrome\&logoColor=ff69b4)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge\&logo=linkedin\&logoColor=ffffff)](https://www.linkedin.com/in/sushmita-singh-542947295/)
 
 </div>
 
@@ -121,13 +120,13 @@ I also enjoy making the things I build actually **look good**.
 
 ### 🤖
 
-# ResearchMuse
+# Mental Health Update
 
-### `AI RESEARCH LAB`
+### `Mental Stable`
 
 </div>
 
-An AI-powered research workflow designed to search, analyse and synthesize information.
+An AI-powered mental heath check up.
 
 **Built with**
 
@@ -138,11 +137,9 @@ An AI-powered research workflow designed to search, analyse and synthesize infor
 
 <div align="center">
 
-**research → retrieve → analyse → synthesize**
-
 <br><br>
 
-[ ✦ VIEW PROJECT ✦ ](YOUR_RESEARCHMUSE_LINK)
+[ ✦ VIEW PROJECT ✦ ](https://github.com/sush123-mita/Mental-Health-checkup)
 
 </div>
 
@@ -175,7 +172,7 @@ A practice platform where learners design systems, submit solutions and receive 
 
 <br><br>
 
-[ ✦ LIVE ✦ ](https://frontend-mauve-kappa-85.vercel.app/)
+[ ✦ LIVE ✦ ](https://github.com/sush123-mita/lldmastery)
 
 </div>
 
@@ -183,77 +180,7 @@ A practice platform where learners design systems, submit solutions and receive 
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧠
-
-# Mental Health AI
-
-### `ML × WEB`
-
-</div>
-
-A machine-learning based application combining a trained model with a web interface.
-
-**Built with**
-
-`Python` `FastAPI` `React`
-`Vite` `Machine Learning`
-
-<br>
-
-<div align="center">
-
-**model → API → interface**
-
-<br><br>
-
-[ ✦ VIEW PROJECT ✦ ](YOUR_MENTAL_HEALTH_LINK)
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤝
-
-# AgentHub
-
-### `DISCOVER AI AGENTS`
-
-</div>
-
-An AI agent discovery platform with search, categories, tags, ratings and reviews.
-
-**Built with**
-
-`React` `Node.js` `Express`
-`MongoDB`
-
-<br>
-
-<div align="center">
-
-**discover → explore → connect**
-
-<br><br>
-
-[ ✦ VIEW PROJECT ✦ ](YOUR_AGENTHUB_LINK)
-
-</div>
-
-</td>
-
-</tr>
 </table>
-
 ---
 
 <div align="center">
@@ -424,9 +351,9 @@ An AI agent discovery platform with search, categories, tags, ratings and review
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sushmita-singh-542947295/)
 
-[![Email](https://img.shields.io/badge/SAY_HELLO-000000?style=for-the-badge\&logo=gmail\&logoColor=FF69B4)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/SAY_HELLO-000000?style=for-the-badge\&logo=gmail\&logoColor=FF69B4)](sushmitasingh2194@gmail.com)
 
 <br><br>
 

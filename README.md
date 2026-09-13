@@ -1,117 +1,183 @@
 <div align="center">
 
-# ✦ SUSHMITA SINGH ✦
+<!-- HERO ILLUSTRATION -->
 
-### `AI/ML Engineer` · `Full Stack Developer` · `Problem Solver`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:160014,100:ff69b4&height=220&section=header&text=SUSHMITA%20SINGH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%20✦%20%20FULL%20STACK%20%20✦%20%20BUILDER&descAlignY=60&descSize=16&descColor=ffb6e6" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+working+products+%E2%9C%A8;Learning+%7C+Building+%7C+Shipping+%F0%9F%9A%80" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=hello%2C+internet+%E2%9C%A8;I+build+things+that+think+%F0%9F%A4%96;I+build+things+that+look+good+%F0%9F%8E%80;AI+%2B+CODE+%2B+CREATIVITY+%E2%99%A1;welcome+to+my+little+corner+of+GitHub+%E2%9C%A8" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sush123-mita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=google-chrome\&logoColor=FF69B4)](YOUR_PORTFOLIO_URL)
+<br>
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%">
+
+<br>
+
+### `⌗ currently turning caffeine into code`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/sush123-mita)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge\&logo=linkedin\&logoColor=ffffff)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge\&logo=googlechrome\&logoColor=ff69b4)](YOUR_PORTFOLIO)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-> **build. break. learn. rebuild. repeat. ♡**
+<img src="https://user-images.githubusercontent.com/74038190/212257466-8f8e8f48-7e5b-4b9e-8e35-c5e0f5f6c6a1.gif" width="90">
+
+### `✦ A little about the girl behind the code ✦`
 
 </div>
 
-## ✧ About Me
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 ```text
-I'm Sushmita — a CSE-AI student who enjoys turning ideas into
-real, usable products.
-
-Currently exploring:
-→ Artificial Intelligence & Machine Learning
-→ Generative AI & RAG
-→ Backend Engineering
-→ Low-Level Design
-→ Full-Stack Development
-
-I like building things that are not only functional,
-but also clean, explainable and actually useful.
+╭────────────────────────────────────╮
+│                                    │
+│  hi, i'm Sushmita ♡                │
+│                                    │
+│  CSE-AI student                   │
+│  aspiring AI/ML Engineer           │
+│  full-stack developer              │
+│  professional problem overthinker  │
+│                                    │
+│  I like turning                    │
+│                                    │
+│       ideas → products             │
+│       problems → solutions         │
+│       coffee → code                │
+│                                    │
+╰────────────────────────────────────╯
 ```
+
+I'm interested in the space where **AI meets real-world software**.
+
+Currently exploring **Machine Learning, Generative AI, RAG, LLM applications, backend engineering and Low-Level Design**.
+
+I also enjoy making the things I build actually **look good**.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+
+<br>
+
+`☕ coding mode: ON`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Universe
-
 <div align="center">
 
-### Languages
+## ✦ MY LITTLE TECH UNIVERSE ✦
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,fastapi,docker,git,github,linux&theme=dark" />
 
-### Full Stack
+<br><br>
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=nodedotjs\&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" />
 
-### AI / ML
+<br><br>
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge\&logo=chainlink\&logoColor=1C3C3C)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge\&logo=numpy\&logoColor=013243)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
+`Python` · `C++` · `JavaScript` · `React` · `Node.js` · `MongoDB` · `SQL`
+`FastAPI` · `Machine Learning` · `RAG` · `LangChain` · `Docker` · `Git`
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257469-0a8f4b0c-9d9b-4a7e-b6b4-9e9a8c0f5f68.gif" width="100">
+
+# ✧ THINGS I'VE BUILT ✧
+
+*not just repositories — tiny worlds where I experimented, broke things and learned.*
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 ResearchMuse
+<div align="center">
 
-**AI Research Lab**
+### 🤖
 
-An AI-powered research workflow for searching, analysing and synthesizing information.
+# ResearchMuse
 
-**Stack**
+### `AI RESEARCH LAB`
 
-`Python` `LangChain` `LangGraph` `Mistral` `RAG` `Streamlit`
+</div>
 
-[→ View Project](YOUR_RESEARCHMUSE_LINK)
+An AI-powered research workflow designed to search, analyse and synthesize information.
+
+**Built with**
+
+`Python` `LangChain` `LangGraph`
+`Mistral` `RAG` `Streamlit`
+
+<br>
+
+<div align="center">
+
+**research → retrieve → analyse → synthesize**
+
+<br><br>
+
+[ ✦ VIEW PROJECT ✦ ](YOUR_RESEARCHMUSE_LINK)
+
+</div>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ LLD Practice Platform
+<div align="center">
 
-**Learn → Design → Submit → Review → Retry**
+### 🏗️
 
-A practice platform designed to help learners improve Low-Level Design through explainable feedback.
+# LLD Practice
 
-**Stack**
+### `LEARN • DESIGN • REVIEW`
 
-`React` `Node.js` `Express` `MongoDB`
+</div>
 
-[→ View Project](https://frontend-mauve-kappa-85.vercel.app/)
+A practice platform where learners design systems, submit solutions and receive explainable feedback.
+
+**Built with**
+
+`React` `Node.js` `Express`
+`MongoDB`
+
+<br>
+
+<div align="center">
+
+**choose → design → submit → review → retry**
+
+<br><br>
+
+[ ✦ LIVE ✦ ](https://frontend-mauve-kappa-85.vercel.app/)
+
+</div>
 
 </td>
 
@@ -119,35 +185,69 @@ A practice platform designed to help learners improve Low-Level Design through e
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Mental Health AI
+<div align="center">
 
-**AI-powered mental health assistant**
+### 🧠
 
-A machine-learning based application with a FastAPI backend and React frontend.
+# Mental Health AI
 
-**Stack**
+### `ML × WEB`
 
-`Python` `FastAPI` `React` `Vite` `Machine Learning`
+</div>
 
-[→ View Project](YOUR_MENTAL_HEALTH_LINK)
+A machine-learning based application combining a trained model with a web interface.
+
+**Built with**
+
+`Python` `FastAPI` `React`
+`Vite` `Machine Learning`
+
+<br>
+
+<div align="center">
+
+**model → API → interface**
+
+<br><br>
+
+[ ✦ VIEW PROJECT ✦ ](YOUR_MENTAL_HEALTH_LINK)
+
+</div>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤝 AgentHub
+<div align="center">
 
-**AI Agent Discovery Platform**
+### 🤝
 
-A platform for discovering and exploring AI agents through categories, search, tags and reviews.
+# AgentHub
 
-**Stack**
+### `DISCOVER AI AGENTS`
 
-`React` `Node.js` `Express` `MongoDB`
+</div>
 
-[→ View Project](YOUR_AGENTHUB_LINK)
+An AI agent discovery platform with search, categories, tags, ratings and reviews.
+
+**Built with**
+
+`React` `Node.js` `Express`
+`MongoDB`
+
+<br>
+
+<div align="center">
+
+**discover → explore → connect**
+
+<br><br>
+
+[ ✦ VIEW PROJECT ✦ ](YOUR_AGENTHUB_LINK)
+
+</div>
 
 </td>
 
@@ -156,123 +256,180 @@ A platform for discovering and exploring AI agents through categories, search, t
 
 ---
 
-## 🌸 Currently Building
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  ◉ AI / ML Engineering                      │
-│  ◉ RAG & Generative AI                      │
-│  ◉ Low-Level Design                         │
-│  ◉ Backend & System Design                   │
-│  ◉ Production-ready Full Stack Applications │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sush123-mita&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sush123-mita&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF" height="170"/>
+# ♡ CURRENTLY OBSESSED WITH
 
 </div>
 
 <br>
 
+<table>
+<tr>
+<td align="center">🤖<br><b>AI / ML</b><br><sub>models · evaluation</sub></td>
+<td align="center">🧠<br><b>GenAI</b><br><sub>LLMs · RAG</sub></td>
+<td align="center">🔗<br><b>Backend</b><br><sub>APIs · systems</sub></td>
+<td align="center">🏗️<br><b>LLD</b><br><sub>design · patterns</sub></td>
+<td align="center">✨<br><b>UI</b><br><sub>motion · UX</sub></td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sush123-mita&theme=radical&hide_border=true&background=000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+```text
+        ┌───────────────────────────────┐
+        │                               │
+        │     currently building...     │
+        │                               │
+        │     ◉ AI / ML projects       │
+        │     ◉ RAG applications       │
+        │     ◉ LLD systems             │
+        │     ◉ production APIs         │
+        │                               │
+        └───────────────────────────────┘
+                    ↓
+             ship something ✨
+```
 
 </div>
 
 ---
 
-## ✦ My Developer Journey
+<div align="center">
+
+# ✦ THE JOURNEY ✦
+
+</div>
 
 ```text
-2023
- │
- ├── Web Development
- │
- ▼
-2024
- │
- ├── MERN / Full Stack
- ├── React + Node.js
- └── APIs + Databases
- │
- ▼
-2025
- │
- ├── Generative AI
- ├── LLM Applications
- └── AI-assisted Products
- │
- ▼
-2026
- │
- ├── AI / ML
- ├── RAG + LangChain
- ├── Low-Level Design
- └── System Design
- │
- ▼
-2027
- │
- └── 🚀 AI / ML Engineer
+                         ┌──────────────────┐
+                         │   WEB DEVELOPMENT │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   FULL STACK     │
+                         │ React • Node     │
+                         │ APIs • Databases │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                       ┌──────────────────────┐
+                       │    GENERATIVE AI     │
+                       │   LLMs • RAG • AI    │
+                       └──────────┬───────────┘
+                                  │
+                                  ▼
+                    ┌────────────────────────────┐
+                    │       AI / ML + LLD        │
+                    │                            │
+                    │  models • systems • APIs  │
+                    └─────────────┬──────────────┘
+                                  │
+                                  ▼
+                           🚀 KEEP BUILDING
 ```
 
 ---
 
-## 💫 What I Care About
-
 <div align="center">
 
-**Clean Code** · **Useful Products** · **Good UX** · **AI** · **Continuous Learning**
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180">
+
+# `git status`
+
+### `● currently learning`
+
+`Machine Learning` · `RAG` · `System Design` · `LLD`
+
+### `● currently building`
+
+`AI applications` · `developer tools` · `full-stack products`
+
+### `● currently looking for`
+
+`AI/ML Internships` · `Software Engineering Roles` · `Full-Stack Opportunities`
 
 </div>
 
 ---
 
-## 🧩 Beyond Code
+<div align="center">
 
-```text
-☕ debugging with questionable amounts of coffee
+# ✦ GITHUB CONSTELLATION ✦
 
-🎧 coding with music on repeat
+<img src="https://github-readme-stats.vercel.app/api?username=sush123-mita&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&ring_color=ff69b4" height="170">
 
-✨ making boring interfaces look less boring
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sush123-mita&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff69b4&text_color=ffffff" height="170">
 
-🧠 learning something I didn't understand yesterday
+<br><br>
 
-🚀 shipping projects instead of keeping them in tutorials
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sush123-mita&hide_border=true&background=0d0d0d&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=aaaaaa" width="60%">
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
+
+## ✧ A FEW THINGS ABOUT ME ✧
+
+<table>
+<tr>
+<td>☕</td>
+<td><b>Fuel</b></td>
+<td>coffee + music + questionable debugging decisions</td>
+</tr>
+
+<tr>
+<td>🎧</td>
+<td><b>Work Mode</b></td>
+<td>headphones on → world off → code on</td>
+</tr>
+
+<tr>
+<td>💗</td>
+<td><b>Design Philosophy</b></td>
+<td>if it works AND looks good, that's a win</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Mindset</b></td>
+<td>I'd rather build and fail than never ship</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Goal</b></td>
+<td>become really, really good at building intelligent systems</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br>
 
 <div align="center">
 
-### Open to internships & full-time opportunities
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:160014,100:000000&height=180&section=footer&animation=twinkling"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+### `✦ thanks for stopping by ✦`
 
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=FF69B4)](mailto:YOUR_EMAIL)
+**If something here caught your attention, let's talk. ♡**
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=sush123-mita&label=PROFILE%20VIEWS&color=ff69b4&style=flat" />
+[![LinkedIn](https://img.shields.io/badge/CONNECT-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
 
-<br/><br/>
+[![Email](https://img.shields.io/badge/SAY_HELLO-000000?style=for-the-badge\&logo=gmail\&logoColor=FF69B4)](mailto:YOUR_EMAIL)
 
-**Thanks for visiting my corner of GitHub ♡**
+<br><br>
 
-`✦ keep building ✦ keep learning ✦ keep shipping ✦`
+<img src="https://komarev.com/ghpvc/?username=sush123-mita&label=VISITORS&color=ff69b4&style=for-the-badge"/>
 
 </div>

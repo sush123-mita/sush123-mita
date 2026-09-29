@@ -120,18 +120,17 @@ I also enjoy making the things I build actually **look good**.
 
 ### 🤖
 
-# Mental Health Update
+# GetEmployed
 
-### `Mental Stable`
+### `Berozgari`
 
 </div>
 
-An AI-powered mental heath check up.
+An AI automated and llm pipeline implemented full fullstack app.
 
 **Built with**
 
-`Python` `LangChain` `LangGraph`
-`Mistral` `RAG` `Streamlit`
+`Python` `nodejs` `react`
 
 <br>
 
@@ -139,7 +138,7 @@ An AI-powered mental heath check up.
 
 <br><br>
 
-[ ✦ VIEW PROJECT ✦ ](https://github.com/sush123-mita/Mental-Health-checkup)
+[ ✦ VIEW PROJECT ✦ ](https://github.com/sush123-mita/GetEmployed)
 
 </div>
 
